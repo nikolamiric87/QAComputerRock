@@ -1,0 +1,5 @@
+{
+    "skipJsErrors": true,
+    "browsers": ["chrome"]
+  
+}
